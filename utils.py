@@ -1,2 +1,2 @@
 def greet():
-    print('Hello from company code!')
+    print('Namaste from Ram!')
